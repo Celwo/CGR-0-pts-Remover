@@ -1,1 +1,1 @@
-lol@gmail.com:lolilol | points = 0.00
+lol@gmail.com:lolilol | Points = 0.0Points
