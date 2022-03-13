@@ -1,4 +1,7 @@
-- Mettez votre fichier de comptes dans le dossier puis renommez le "hits"
+
+
+
+- Mettez votre fichier de comptes dans le dossier "To remove" puis renommez le "hits" /!\ IMPORTANT /!\
 
 - Lancez un cmd dans le dossier (https://cdn.discordapp.com/attachments/882029855611449395/952648853276983407/unknown.png)
 
